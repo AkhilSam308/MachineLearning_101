@@ -14,4 +14,11 @@ Classification Models used in this project:
 - KNeighbours Classifier 
 - Random Forest Classifier 
 
+Libraries used in this project:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-learn (sklearn)
+
 The project was written on windows 32 bit with Python 3.8.3
