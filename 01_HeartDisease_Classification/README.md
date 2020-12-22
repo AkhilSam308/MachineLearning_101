@@ -1,6 +1,6 @@
 # MachineLearning_Basics
 
-This project is a sample (proof of concept) ML project (done as a part of the course Zero to Mastery ML) for Predicting heart disease using machine learning. 
+This project is a sample (proof of concept) ML project (done as a part of the course Zero to Mastery ML) for building a model capable of predicting whether or not someone has heart disease based on their medical attributes. 
 
 
 ### Problem
