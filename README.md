@@ -1,4 +1,4 @@
-# MachineLearning_Basics
+# MachineLearning_101
 
 ### Sample Machine Learning projects with proof of concepts using open source datasets
 
