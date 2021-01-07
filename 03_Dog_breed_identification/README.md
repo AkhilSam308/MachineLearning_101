@@ -14,4 +14,6 @@ The data is obtained from Kaggle's dog breed identification competition. Can be 
 ).
 
 ## Results 
+The following are the results of the model on custom dog images. Some images were downloaded from Google and some were clicked by myself (to have a mix).
+
 ![Results on Custom Dog Images](https://github.com/AkhilSam308/MachineLearning_101/blob/main/03_Dog_breed_identification/Results_on_custom_images.png)
