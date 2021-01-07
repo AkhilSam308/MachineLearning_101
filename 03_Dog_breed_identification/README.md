@@ -14,4 +14,4 @@ The data is obtained from Kaggle's dog breed identification competition. Can be 
 ).
 
 ## Results 
-[]()
+![Results on Custom Dog Images](https://github.com/AkhilSam308/MachineLearning_101/blob/main/03_Dog_breed_identification/Results_on_custom_images.png)
