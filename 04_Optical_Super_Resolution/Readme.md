@@ -107,23 +107,3 @@ This script can be used locally (any Python interpreter) or using Google Colab. 
 
 ### System requirements
 A stable internet conection with access to Google Chrome (preferably, or any other browser) will work.
-
-## Use Case Progress: To DO
-1. Try the script on Sentinel 2 Imagery 
-2. Use sliders to demonstrate the results (Sliders from RC - mapswipe function)
-
-
-## Current List of issues
-
-In case you have a probelm similar to the ones mentioned below, the solution might be here. Follow the issues below.
-
-1.  Uploading the final output of the ML back into RAMANI (Current). To track the issue Please see below: [RAMANI/ml4eo#2](https://team.ujuizi.com:6443/RAMANI/ml4eo/-/issues/2 "Fetching images from AWS to RAMANI")
-
-2.  Accessing AWS bucket as sub user for improving the use case for accessing UAV. To track the issue Please see below: [RAMANI/ramani-cloud-v2/rcloud#3](https://team.ujuizi.com:6443/RAMANI/ramani-cloud-v2/rcloud/-/issues/3 "Linking AWS with Ramani Cloud")
-
-3.  Uploding the file to the RAMANI cloud, which have been solved now by new dashboard: [RAMANI/ramani-cloud-v2/rcloud#1](https://team.ujuizi.com:6443/RAMANI/ramani-cloud-v2/rcloud/-/issues/1)
-
-4.  Not accessing the files uplaoded to AWS by external script, which has been solved by manually set the permission in AWS console: [RAMANI/ramani-cloud-v2/rcloud#2](https://team.ujuizi.com:6443/RAMANI/ramani-cloud-v2/rcloud/-/issues/2 "AWS & File Access")
-
-
-
