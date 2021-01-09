@@ -31,7 +31,13 @@ Some of the commonly used methods are:
 - GAN (Generative adversarial network)
 
 **This use case uses a single image approach with a Random Forest Regressor**
-   
+
+## Sample Pipeline for ML4EO
+
+Pipeline required for performing a Super Resolution task is as follows. The task can be performed on both local and cloud platforms; cloud (**AWS or Ramani cloud** etc) can be used to store data, the images can be pulled from the cloud using the processing platform (a remote server like Google Colab or Python on a local computer). However, it is suggested to use Google Colab for runnning this script rather than a local machine. 
+
+![](Infrastructure_ML4EO.png)
+
 ## Background Knowledge 
 
 ### Random Forest 
