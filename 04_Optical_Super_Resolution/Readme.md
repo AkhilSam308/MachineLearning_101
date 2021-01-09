@@ -1,3 +1,4 @@
+> Note: This project was a part of Machine Learning for Earth Observation (ML4EO) usecases designed for presenting to the participants of ESA SpaceApp Camp 2020 
 ## Product Summary 
 This use case is an implememtation of a Random Forest Super Resolution. The method (adapted from [CosmiQ/RFSR](https://github.com/CosmiQ/RFSR)) is 
 a random forest regressor with standard parameters. Google colab was used as the platform for implememtation. 
